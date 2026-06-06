@@ -6,3 +6,7 @@ Personal development log — notes, findings, and ongoing work.
 - Documented config options
 - Added healthcheck endpoint stub
 - Resolved TODO items from previous session
+
+## 2026-06-06
+- Added basic retry logic for network requests
+- Resolved deprecation warnings

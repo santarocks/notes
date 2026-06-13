@@ -17,3 +17,8 @@ Personal development log — notes, findings, and ongoing work.
 
 ## 2026-06-13
 - Bumped patch version
+
+## 2026-06-13
+- Added CONTRIBUTING.md stub
+- Tidied up project structure
+- Noted known limitation in docs

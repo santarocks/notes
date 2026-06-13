@@ -14,3 +14,6 @@ Personal development log — notes, findings, and ongoing work.
 ## 2026-06-06
 - Tested build on clean environment
 - Ran linter, applied auto-fixes
+
+## 2026-06-13
+- Bumped patch version
